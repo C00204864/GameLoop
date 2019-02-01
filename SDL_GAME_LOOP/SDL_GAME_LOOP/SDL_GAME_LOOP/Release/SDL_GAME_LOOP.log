@@ -1,0 +1,7 @@
+﻿  Game.cpp
+c:\users\liamh\desktop\sdl_game_loop\sdl_game_loop\sdl_game_loop\game.cpp(31): warning C4244: '-=': conversion from 'float' to 'Uint32', possible loss of data
+  main.cpp
+  Generating code
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL_GAME_LOOP.vcxproj -> C:\Users\liamh\Desktop\SDL_GAME_LOOP\SDL_GAME_LOOP\Release\SDL_GAME_LOOP.exe
